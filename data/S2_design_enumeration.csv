@@ -1,0 +1,1640 @@
+dataset,n_levels,design_levels,operating_point,true_optimum_trim,selected_trim,category,penalty_percent
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-1,"(7.5, 12.5)",1.5,-1.0,range miss,21.8416
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-1,"(7.5, 15.0)",1.5,-1.0,range miss,25.7908
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-1,"(7.5, 18.0)",1.5,-1.0,range miss,19.5904
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-1,"(8.0, 12.5)",1.5,-1.0,range miss,23.6195
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-1,"(8.0, 15.0)",1.5,-1.0,range miss,21.327
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-1,"(8.0, 18.0)",1.0,-1.0,range miss,19.9787
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-1,"(8.7, 12.5)",1.5,-1.0,range miss,20.8461
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-1,"(8.7, 15.0)",1.5,-1.0,range miss,21.7023
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-1,"(8.7, 18.0)",1.5,-1.0,range miss,21.4049
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-0.5,"(7.5, 12.5)",1.5,-0.5,range miss,15.7028
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-0.5,"(7.5, 15.0)",1.5,-0.5,range miss,17.6973
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-0.5,"(7.5, 18.0)",1.5,-0.5,range miss,11.9188
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-0.5,"(8.0, 12.5)",1.5,-0.5,range miss,13.6891
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-0.5,"(8.0, 15.0)",1.5,-0.5,range miss,13.5489
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-0.5,"(8.0, 18.0)",1.0,-0.5,range miss,8.4209
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-0.5,"(8.7, 12.5)",1.5,-0.5,range miss,11.8186
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-0.5,"(8.7, 15.0)",1.5,-0.5,range miss,12.0956
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;-0.5,"(8.7, 18.0)",1.5,-0.5,range miss,11.6054
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0,"(7.5, 12.5)",1.5,0.0,range miss,8.8523
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0,"(7.5, 15.0)",1.5,0.0,range miss,12.9952
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0,"(7.5, 18.0)",1.5,0.0,range miss,8.1249
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0,"(8.0, 12.5)",1.5,0.0,range miss,9.3735
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0,"(8.0, 15.0)",1.5,0.0,range miss,7.8617
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0,"(8.0, 18.0)",1.0,0.0,range miss,5.7104
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0,"(8.7, 12.5)",1.5,0.0,range miss,8.068
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0,"(8.7, 15.0)",1.5,0.0,range miss,7.0931
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0,"(8.7, 18.0)",1.5,0.0,range miss,6.2674
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;-0.5,"(7.5, 12.5)",1.5,-0.5,range miss,15.7028
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;-0.5,"(7.5, 15.0)",1.5,-0.5,range miss,17.6973
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;-0.5,"(7.5, 18.0)",1.5,-0.5,range miss,11.9188
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;-0.5,"(8.0, 12.5)",1.5,-0.5,range miss,13.6891
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;-0.5,"(8.0, 15.0)",1.5,-0.5,range miss,13.5489
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;-0.5,"(8.0, 18.0)",1.0,-0.5,range miss,8.4209
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;-0.5,"(8.7, 12.5)",1.5,-0.5,range miss,11.8186
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;-0.5,"(8.7, 15.0)",1.5,-0.5,range miss,12.0956
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;-0.5,"(8.7, 18.0)",1.5,-0.5,range miss,11.6054
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0,"(7.5, 12.5)",1.5,0.0,range miss,8.8523
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0,"(7.5, 15.0)",1.5,0.0,range miss,12.9952
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0,"(7.5, 18.0)",1.5,0.0,range miss,8.1249
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0,"(8.0, 12.5)",1.5,0.0,range miss,9.3735
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0,"(8.0, 15.0)",1.5,0.0,range miss,7.8617
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0,"(8.0, 18.0)",1.0,0.0,range miss,5.7104
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0,"(8.7, 12.5)",1.5,0.0,range miss,8.068
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0,"(8.7, 15.0)",1.5,0.0,range miss,7.0931
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0,"(8.7, 18.0)",1.5,0.0,range miss,6.2674
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0,"(7.5, 12.5)",1.5,0.0,range miss,8.8523
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0,"(7.5, 15.0)",1.5,0.0,range miss,12.9952
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0,"(7.5, 18.0)",1.5,0.0,range miss,8.1249
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0,"(8.0, 12.5)",1.5,0.0,range miss,9.3735
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0,"(8.0, 15.0)",1.5,0.0,range miss,7.8617
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0,"(8.0, 18.0)",1.0,0.0,range miss,5.7104
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0,"(8.7, 12.5)",1.5,0.0,range miss,8.068
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0,"(8.7, 15.0)",1.5,0.0,range miss,7.0931
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0,"(8.7, 18.0)",1.5,0.0,range miss,6.2674
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,-0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",2,1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;-0.5,"(7.5, 12.5)",1.5,-0.5,range miss,15.7028
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;-0.5,"(7.5, 15.0)",1.5,-0.5,range miss,17.6973
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;-0.5,"(7.5, 18.0)",1.5,-0.5,range miss,11.9188
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;-0.5,"(8.0, 12.5)",1.5,-0.5,range miss,13.6891
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;-0.5,"(8.0, 15.0)",1.5,-0.5,range miss,13.5489
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;-0.5,"(8.0, 18.0)",1.0,-0.5,range miss,8.4209
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;-0.5,"(8.7, 12.5)",1.5,-0.5,range miss,11.8186
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;-0.5,"(8.7, 15.0)",1.5,-0.5,range miss,12.0956
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;-0.5,"(8.7, 18.0)",1.5,-0.5,range miss,11.6054
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0,"(7.5, 12.5)",1.5,0.0,range miss,8.8523
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0,"(7.5, 15.0)",1.5,0.0,range miss,12.9952
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0,"(7.5, 18.0)",1.5,0.0,range miss,8.1249
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0,"(8.0, 12.5)",1.5,0.0,range miss,9.3735
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0,"(8.0, 15.0)",1.5,0.0,range miss,7.8617
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0,"(8.0, 18.0)",1.0,0.0,range miss,5.7104
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0,"(8.7, 12.5)",1.5,0.0,range miss,8.068
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0,"(8.7, 15.0)",1.5,0.0,range miss,7.0931
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0,"(8.7, 18.0)",1.5,0.0,range miss,6.2674
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0,"(7.5, 12.5)",1.5,0.0,range miss,8.8523
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0,"(7.5, 15.0)",1.5,0.0,range miss,12.9952
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0,"(7.5, 18.0)",1.5,0.0,range miss,8.1249
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0,"(8.0, 12.5)",1.5,0.0,range miss,9.3735
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0,"(8.0, 15.0)",1.5,0.0,range miss,7.8617
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0,"(8.0, 18.0)",1.0,0.0,range miss,5.7104
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0,"(8.7, 12.5)",1.5,0.0,range miss,8.068
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0,"(8.7, 15.0)",1.5,0.0,range miss,7.0931
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0,"(8.7, 18.0)",1.5,0.0,range miss,6.2674
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;-0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0,"(7.5, 12.5)",1.5,0.0,range miss,8.8523
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0,"(7.5, 15.0)",1.5,0.0,range miss,12.9952
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0,"(7.5, 18.0)",1.5,0.0,range miss,8.1249
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0,"(8.0, 12.5)",1.5,0.0,range miss,9.3735
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0,"(8.0, 15.0)",1.5,0.0,range miss,7.8617
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0,"(8.0, 18.0)",1.0,0.0,range miss,5.7104
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0,"(8.7, 12.5)",1.5,0.0,range miss,8.068
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0,"(8.7, 15.0)",1.5,0.0,range miss,7.0931
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0,"(8.7, 18.0)",1.5,0.0,range miss,6.2674
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;-0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-1;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,-0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",3,0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0,"(7.5, 12.5)",1.5,0.0,range miss,8.8523
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0,"(7.5, 15.0)",1.5,0.0,range miss,12.9952
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0,"(7.5, 18.0)",1.5,0.0,range miss,8.1249
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0,"(8.0, 12.5)",1.5,0.0,range miss,9.3735
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0,"(8.0, 15.0)",1.5,0.0,range miss,7.8617
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0,"(8.0, 18.0)",1.0,0.0,range miss,5.7104
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0,"(8.7, 12.5)",1.5,0.0,range miss,8.068
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0,"(8.7, 15.0)",1.5,0.0,range miss,7.0931
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0,"(8.7, 18.0)",1.5,0.0,range miss,6.2674
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;-0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-1;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;-0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1.5;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;-0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-1;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,-0.5;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,0;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,0;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,0;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,0;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,0;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,0;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,0;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,0;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",4,0;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;0.5,"(7.5, 12.5)",1.5,0.5,range miss,5.427
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;0.5,"(7.5, 15.0)",1.5,0.5,range miss,7.495
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;0.5,"(7.5, 18.0)",1.5,0.5,range miss,6.5133
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;0.5,"(8.0, 12.5)",1.5,0.5,range miss,6.0325
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;0.5,"(8.0, 15.0)",1.5,0.5,range miss,6.4399
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;0.5,"(8.0, 18.0)",1.0,0.5,range miss,2.7867
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;0.5,"(8.7, 12.5)",1.5,0.5,range miss,4.7972
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;0.5,"(8.7, 15.0)",1.5,0.5,range miss,4.0567
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;0.5,"(8.7, 18.0)",1.5,0.5,range miss,2.337
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;-0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-1;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;-0.5;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;0;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;0;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;0;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;0;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;0;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;0;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;0;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;0;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1.5;0;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;-0.5;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;0;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;0;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;0;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;0;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;0;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;0;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;0;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;0;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-1;0;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-0.5;0;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-0.5;0;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-0.5;0;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-0.5;0;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-0.5;0;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-0.5;0;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-0.5;0;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-0.5;0;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",5,-0.5;0;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1,"(7.5, 12.5)",1.5,1.0,range miss,3.8701
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1,"(7.5, 15.0)",1.5,1.0,range miss,4.4457
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1,"(7.5, 18.0)",1.5,1.0,range miss,3.861
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1,"(8.0, 12.5)",1.5,1.0,range miss,3.0626
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1,"(8.0, 15.0)",1.5,1.0,range miss,3.68
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1,"(8.7, 12.5)",1.5,1.0,range miss,2.6167
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1,"(8.7, 15.0)",1.5,1.0,range miss,1.344
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1,"(8.7, 18.0)",1.5,1.0,range miss,1.7528
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1.5,"(8.0, 18.0)",1.0,1.5,resolution miss,0.4264
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;0.5;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;-0.5;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;0;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;0;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;0;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;0;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;0;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;0;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;0;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;0;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-1;0;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-0.5;0;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-0.5;0;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-0.5;0;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-0.5;0;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-0.5;0;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-0.5;0;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-0.5;0;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-0.5;0;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1.5;-0.5;0;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1;-0.5;0;0.5;1;1.5,"(7.5, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1;-0.5;0;0.5;1;1.5,"(7.5, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1;-0.5;0;0.5;1;1.5,"(7.5, 18.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1;-0.5;0;0.5;1;1.5,"(8.0, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1;-0.5;0;0.5;1;1.5,"(8.0, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1;-0.5;0;0.5;1;1.5,"(8.0, 18.0)",1.0,1.0,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1;-0.5;0;0.5;1;1.5,"(8.7, 12.5)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1;-0.5;0;0.5;1;1.5,"(8.7, 15.0)",1.5,1.5,optimum sampled,0.0
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD",6,-1;-0.5;0;0.5;1;1.5,"(8.7, 18.0)",1.5,1.5,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0,"('T1', 20.0)",1.0,0.0,range miss,3.8
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0,"('T1', 21.5)",1.0,0.0,range miss,4.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0,"('T1', 23.0)",1.0,0.0,range miss,4.3
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0,"('T2', 20.0)",1.0,0.0,range miss,3.5
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0,"('T2', 21.5)",1.0,0.0,range miss,4.9
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0,"('T2', 23.0)",1.0,0.0,range miss,5.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0.5,"('T1', 20.0)",1.0,0.5,range miss,1.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0.5,"('T1', 21.5)",1.0,0.5,range miss,1.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0.5,"('T1', 23.0)",1.0,0.5,range miss,1.7
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0.5,"('T2', 20.0)",1.0,0.5,range miss,0.5
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0.5,"('T2', 21.5)",1.0,0.5,range miss,0.7
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;0.5,"('T2', 23.0)",1.0,0.5,range miss,0.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;1,"('T1', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;1,"('T1', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;1,"('T1', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;1,"('T2', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;1,"('T2', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,-1;1,"('T2', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;0.5,"('T1', 20.0)",1.0,0.5,range miss,1.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;0.5,"('T1', 21.5)",1.0,0.5,range miss,1.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;0.5,"('T1', 23.0)",1.0,0.5,range miss,1.7
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;0.5,"('T2', 20.0)",1.0,0.5,range miss,0.5
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;0.5,"('T2', 21.5)",1.0,0.5,range miss,0.7
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;0.5,"('T2', 23.0)",1.0,0.5,range miss,0.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;1,"('T1', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;1,"('T1', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;1,"('T1', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;1,"('T2', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;1,"('T2', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0;1,"('T2', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0.5;1,"('T1', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0.5;1,"('T1', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0.5;1,"('T1', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0.5;1,"('T2', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0.5;1,"('T2', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",2,0.5;1,"('T2', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;0.5,"('T1', 20.0)",1.0,0.5,range miss,1.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;0.5,"('T1', 21.5)",1.0,0.5,range miss,1.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;0.5,"('T1', 23.0)",1.0,0.5,range miss,1.7
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;0.5,"('T2', 20.0)",1.0,0.5,range miss,0.5
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;0.5,"('T2', 21.5)",1.0,0.5,range miss,0.7
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;0.5,"('T2', 23.0)",1.0,0.5,range miss,0.6
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;1,"('T1', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;1,"('T1', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;1,"('T1', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;1,"('T2', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;1,"('T2', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0;1,"('T2', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0.5;1,"('T1', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0.5;1,"('T1', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0.5;1,"('T1', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0.5;1,"('T2', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0.5;1,"('T2', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,-1;0.5;1,"('T2', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,0;0.5;1,"('T1', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,0;0.5;1,"('T1', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,0;0.5;1,"('T1', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,0;0.5;1,"('T2', 20.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,0;0.5;1,"('T2', 21.5)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi",3,0;0.5;1,"('T2', 23.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;-1,"('T1', 13.0)",1.0,-1.0,range miss,0.7
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;-1,"('T1', 14.0)",1.0,-1.0,range miss,0.1
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;-1,"('T1', 15.0)",1.0,-1.0,range miss,0.2
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;-1,"('T2', 13.0)",1.0,-1.0,range miss,5.1
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;-1,"('T2', 14.0)",1.0,-1.0,range miss,4.6
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;-1,"('T2', 15.0)",1.0,-1.0,range miss,3.9
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;0,"('T1', 13.0)",1.0,0.0,range miss,0.9
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;0,"('T1', 14.0)",1.0,0.0,range miss,0.4
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;0,"('T1', 15.0)",1.0,0.0,range miss,0.1
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;0,"('T2', 13.0)",1.0,0.0,range miss,2.6
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;0,"('T2', 14.0)",1.0,0.0,range miss,1.8
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;0,"('T2', 15.0)",1.0,0.0,range miss,0.8
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;1,"('T1', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;1,"('T1', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;1,"('T1', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;1,"('T2', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;1,"('T2', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-2;1,"('T2', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;0,"('T1', 13.0)",1.0,-1.0,range miss,0.7
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;0,"('T1', 14.0)",1.0,-1.0,range miss,0.1
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;0,"('T1', 15.0)",1.0,0.0,range miss,0.1
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;0,"('T2', 13.0)",1.0,0.0,range miss,2.6
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;0,"('T2', 14.0)",1.0,0.0,range miss,1.8
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;0,"('T2', 15.0)",1.0,0.0,range miss,0.8
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;1,"('T1', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;1,"('T1', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;1,"('T1', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;1,"('T2', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;1,"('T2', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,-1;1,"('T2', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,0;1,"('T1', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,0;1,"('T1', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,0;1,"('T1', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,0;1,"('T2', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,0;1,"('T2', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",2,0;1,"('T2', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;0,"('T1', 13.0)",1.0,-1.0,range miss,0.7
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;0,"('T1', 14.0)",1.0,-1.0,range miss,0.1
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;0,"('T1', 15.0)",1.0,0.0,range miss,0.1
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;0,"('T2', 13.0)",1.0,0.0,range miss,2.6
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;0,"('T2', 14.0)",1.0,0.0,range miss,1.8
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;0,"('T2', 15.0)",1.0,0.0,range miss,0.8
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;1,"('T1', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;1,"('T1', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;1,"('T1', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;1,"('T2', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;1,"('T2', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;-1;1,"('T2', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;0;1,"('T1', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;0;1,"('T1', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;0;1,"('T1', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;0;1,"('T2', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;0;1,"('T2', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-2;0;1,"('T2', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-1;0;1,"('T1', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-1;0;1,"('T1', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-1;0;1,"('T1', 15.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-1;0;1,"('T2', 13.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-1;0;1,"('T2', 14.0)",1.0,1.0,optimum sampled,0.0
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi",3,-1;0;1,"('T2', 15.0)",1.0,1.0,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;-0.6,"('EFD', 0.26)",0.25,-0.6,range miss,4.4534
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;-0.6,"('CFD-serbest', 0.26)",0.25,-0.6,range miss,2.3743
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;-0.6,"('CFD-sabit', 0.26)",0.25,-0.6,range miss,2.3121
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;-0.25,"('EFD', 0.26)",0.25,-0.25,range miss,3.1039
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;-0.25,"('CFD-serbest', 0.26)",0.25,-0.25,range miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;-0.25,"('CFD-sabit', 0.26)",0.25,-0.25,range miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;0,"('EFD', 0.26)",0.25,0.0,range miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;0,"('CFD-serbest', 0.26)",0.25,0.0,range miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;0,"('CFD-sabit', 0.26)",0.25,0.0,range miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;0.6,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;0.6,"('CFD-serbest', 0.26)",0.25,0.6,resolution miss,1.3966
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;0.6,"('CFD-sabit', 0.26)",0.25,0.6,resolution miss,1.5896
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;1,"('EFD', 0.26)",0.25,1.0,resolution miss,6.4777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;1,"('CFD-serbest', 0.26)",0.25,1.0,resolution miss,4.0503
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-1;1,"('CFD-sabit', 0.26)",0.25,1.0,resolution miss,3.4682
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;-0.25,"('EFD', 0.26)",0.25,-0.25,range miss,3.1039
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;-0.25,"('CFD-serbest', 0.26)",0.25,-0.25,range miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;-0.25,"('CFD-sabit', 0.26)",0.25,-0.25,range miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;0,"('EFD', 0.26)",0.25,0.0,range miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;0,"('CFD-serbest', 0.26)",0.25,0.0,range miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;0,"('CFD-sabit', 0.26)",0.25,0.0,range miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;0.6,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;0.6,"('CFD-serbest', 0.26)",0.25,0.6,resolution miss,1.3966
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;0.6,"('CFD-sabit', 0.26)",0.25,0.6,resolution miss,1.5896
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;1,"('EFD', 0.26)",0.25,-0.6,resolution miss,4.4534
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;1,"('CFD-serbest', 0.26)",0.25,-0.6,resolution miss,2.3743
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.6;1,"('CFD-sabit', 0.26)",0.25,-0.6,resolution miss,2.3121
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;0,"('EFD', 0.26)",0.25,0.0,range miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;0,"('CFD-serbest', 0.26)",0.25,0.0,range miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;0,"('CFD-sabit', 0.26)",0.25,0.0,range miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;0.6,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;0.6,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;0.6,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;1,"('EFD', 0.26)",0.25,-0.25,resolution miss,3.1039
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;1,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,-0.25;1,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0;0.6,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0;0.6,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0;0.6,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0.6;1,"('EFD', 0.26)",0.25,0.6,range miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0.6;1,"('CFD-serbest', 0.26)",0.25,0.6,range miss,1.3966
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",2,0.6;1,"('CFD-sabit', 0.26)",0.25,0.6,range miss,1.5896
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;-0.25,"('EFD', 0.26)",0.25,-0.25,range miss,3.1039
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;-0.25,"('CFD-serbest', 0.26)",0.25,-0.25,range miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;-0.25,"('CFD-sabit', 0.26)",0.25,-0.25,range miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;0,"('EFD', 0.26)",0.25,0.0,range miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;0,"('CFD-serbest', 0.26)",0.25,0.0,range miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;0,"('CFD-sabit', 0.26)",0.25,0.0,range miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;0.6,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;0.6,"('CFD-serbest', 0.26)",0.25,0.6,resolution miss,1.3966
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;0.6,"('CFD-sabit', 0.26)",0.25,0.6,resolution miss,1.5896
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;1,"('EFD', 0.26)",0.25,-0.6,resolution miss,4.4534
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;1,"('CFD-serbest', 0.26)",0.25,-0.6,resolution miss,2.3743
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.6;1,"('CFD-sabit', 0.26)",0.25,-0.6,resolution miss,2.3121
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;0,"('EFD', 0.26)",0.25,0.0,range miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;0,"('CFD-serbest', 0.26)",0.25,0.0,range miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;0,"('CFD-sabit', 0.26)",0.25,0.0,range miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;0.6,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;0.6,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;0.6,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;1,"('EFD', 0.26)",0.25,-0.25,resolution miss,3.1039
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;1,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;-0.25;1,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0;0.6,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0;0.6,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0;0.6,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0.6;1,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0.6;1,"('CFD-serbest', 0.26)",0.25,0.6,resolution miss,1.3966
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-1;0.6;1,"('CFD-sabit', 0.26)",0.25,0.6,resolution miss,1.5896
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;0,"('EFD', 0.26)",0.25,0.0,range miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;0,"('CFD-serbest', 0.26)",0.25,0.0,range miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;0,"('CFD-sabit', 0.26)",0.25,0.0,range miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;0.6,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;0.6,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;0.6,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;1,"('EFD', 0.26)",0.25,-0.25,resolution miss,3.1039
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;1,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;-0.25;1,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0;0.6,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0;0.6,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0;0.6,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0.6;1,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0.6;1,"('CFD-serbest', 0.26)",0.25,0.6,resolution miss,1.3966
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.6;0.6;1,"('CFD-sabit', 0.26)",0.25,0.6,resolution miss,1.5896
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0;0.6,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0;0.6,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0;0.6,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0.6;1,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,-0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0;0.6;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0;0.6;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0;0.6;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",3,0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;0,"('EFD', 0.26)",0.25,0.0,range miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;0,"('CFD-serbest', 0.26)",0.25,0.0,range miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;0,"('CFD-sabit', 0.26)",0.25,0.0,range miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;0.6,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;0.6,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;0.6,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;1,"('EFD', 0.26)",0.25,-0.25,resolution miss,3.1039
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;1,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;-0.25;1,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0;0.6,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0;0.6,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0;0.6,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0.6;1,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0.6;1,"('CFD-serbest', 0.26)",0.25,0.6,resolution miss,1.3966
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.6;0.6;1,"('CFD-sabit', 0.26)",0.25,0.6,resolution miss,1.5896
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0;0.6,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0;0.6,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0;0.6,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0.6;1,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;-0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0;0.6;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0;0.6;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0;0.6;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-1;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0;0.6,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0;0.6,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0;0.6,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0.6;1,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;-0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0;0.6;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0;0.6;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0;0.6;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.6;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0;0.6;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0;0.6;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0;0.6;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,-0.25;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,0;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,0;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",4,0;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0;0.25,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0;0.25,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0;0.25,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0;0.6,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0;0.6,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0;0.6,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0.6;1,"('EFD', 0.26)",0.25,0.6,resolution miss,2.834
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,-0.25,resolution miss,0.9777
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;-0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,-0.25,resolution miss,1.4451
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0;0.6;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0;0.6;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0;0.6;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.6;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0;0.6;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0;0.6;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0;0.6;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;-0.25;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;0;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;0;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-1;0;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0;0.6;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0;0.6;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0;0.6;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;-0.25;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;0;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;0;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.6;0;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.25;0;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.25;0;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",5,-0.25;0;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0;0.25;0.6,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0;0.25;0.6,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0;0.25;0.6,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0;0.25;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0;0.25;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0;0.25;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0;0.6;1,"('EFD', 0.26)",0.25,0.0,resolution miss,1.2146
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0;0.6;1,"('CFD-serbest', 0.26)",0.25,0.0,resolution miss,0.6983
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0;0.6;1,"('CFD-sabit', 0.26)",0.25,0.0,resolution miss,0.289
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;-0.25;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;0;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;0;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.6;0;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.25;0;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.25;0;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-1;-0.25;0;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-0.6;-0.25;0;0.25;0.6;1,"('EFD', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-0.6;-0.25;0;0.25;0.6;1,"('CFD-serbest', 0.26)",0.25,0.25,optimum sampled,0.0
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26",6,-0.6;-0.25;0;0.25;0.6;1,"('CFD-sabit', 0.26)",0.25,0.25,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;-1,"('T 11.40 m', 22.0)",0.0,-1.0,range miss,9.7502
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;-1,"('T 10.10 m', 22.0)",0.0,-1.0,range miss,15.9016
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;-1,"('T 8.80 m', 22.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;-1,"('T 11.40 m', 15.0)",0.0,-1.0,range miss,2.8452
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;-1,"('T 10.10 m', 15.0)",0.0,-2.0,range miss,9.8752
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;-1,"('T 8.80 m', 15.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;0,"('T 11.40 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;0,"('T 10.10 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;0,"('T 8.80 m', 22.0)",-1.0,0.0,resolution miss,1.8262
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;0,"('T 11.40 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;0,"('T 10.10 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;0,"('T 8.80 m', 15.0)",-1.0,0.0,resolution miss,4.186
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;1,"('T 11.40 m', 22.0)",0.0,1.0,resolution miss,8.7806
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;1,"('T 10.10 m', 22.0)",0.0,1.0,resolution miss,15.2705
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;1,"('T 8.80 m', 22.0)",-1.0,1.0,resolution miss,6.448
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;1,"('T 11.40 m', 15.0)",0.0,1.0,resolution miss,11.752
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;1,"('T 10.10 m', 15.0)",0.0,1.0,resolution miss,1.3694
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-2;1,"('T 8.80 m', 15.0)",-1.0,1.0,resolution miss,0.3001
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;0,"('T 11.40 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;0,"('T 10.10 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;0,"('T 8.80 m', 22.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;0,"('T 11.40 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;0,"('T 10.10 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;0,"('T 8.80 m', 15.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;1,"('T 11.40 m', 22.0)",0.0,1.0,resolution miss,8.7806
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;1,"('T 10.10 m', 22.0)",0.0,1.0,resolution miss,15.2705
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;1,"('T 8.80 m', 22.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;1,"('T 11.40 m', 15.0)",0.0,-1.0,resolution miss,2.8452
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;1,"('T 10.10 m', 15.0)",0.0,1.0,resolution miss,1.3694
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,-1;1,"('T 8.80 m', 15.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,0;1,"('T 11.40 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,0;1,"('T 10.10 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,0;1,"('T 8.80 m', 22.0)",-1.0,0.0,range miss,1.8262
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,0;1,"('T 11.40 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,0;1,"('T 10.10 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",2,0;1,"('T 8.80 m', 15.0)",-1.0,1.0,range miss,0.3001
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;0,"('T 11.40 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;0,"('T 10.10 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;0,"('T 8.80 m', 22.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;0,"('T 11.40 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;0,"('T 10.10 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;0,"('T 8.80 m', 15.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;1,"('T 11.40 m', 22.0)",0.0,1.0,resolution miss,8.7806
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;1,"('T 10.10 m', 22.0)",0.0,1.0,resolution miss,15.2705
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;1,"('T 8.80 m', 22.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;1,"('T 11.40 m', 15.0)",0.0,-1.0,resolution miss,2.8452
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;1,"('T 10.10 m', 15.0)",0.0,1.0,resolution miss,1.3694
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;-1;1,"('T 8.80 m', 15.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;0;1,"('T 11.40 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;0;1,"('T 10.10 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;0;1,"('T 8.80 m', 22.0)",-1.0,0.0,resolution miss,1.8262
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;0;1,"('T 11.40 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;0;1,"('T 10.10 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-2;0;1,"('T 8.80 m', 15.0)",-1.0,1.0,resolution miss,0.3001
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-1;0;1,"('T 11.40 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-1;0;1,"('T 10.10 m', 22.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-1;0;1,"('T 8.80 m', 22.0)",-1.0,-1.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-1;0;1,"('T 11.40 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-1;0;1,"('T 10.10 m', 15.0)",0.0,0.0,optimum sampled,0.0
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)",3,-1;0;1,"('T 8.80 m', 15.0)",-1.0,-1.0,optimum sampled,0.0
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn",2,-1.5;0,"('hafif yuk', 17.0)",1.5,0.0,range miss,0.7
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn",2,-1.5;0,"('agir yuk', 17.0)",1.5,0.0,range miss,5.9
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn",2,-1.5;1.5,"('hafif yuk', 17.0)",1.5,1.5,optimum sampled,0.0
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn",2,-1.5;1.5,"('agir yuk', 17.0)",1.5,1.5,optimum sampled,0.0
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn",2,0;1.5,"('hafif yuk', 17.0)",1.5,1.5,optimum sampled,0.0
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn",2,0;1.5,"('agir yuk', 17.0)",1.5,1.5,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,-0.4;-0.2,"('KCS sig su', 0.469)",0.4,-0.2,range miss,4.8507
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,-0.4;0,"('KCS sig su', 0.469)",0.4,0.0,range miss,3.3582
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,-0.4;0.2,"('KCS sig su', 0.469)",0.4,0.2,range miss,1.1194
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,-0.4;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,-0.2;0,"('KCS sig su', 0.469)",0.4,0.0,range miss,3.3582
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,-0.2;0.2,"('KCS sig su', 0.469)",0.4,0.2,range miss,1.1194
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,-0.2;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,0;0.2,"('KCS sig su', 0.469)",0.4,0.2,range miss,1.1194
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,0;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",2,0.2;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,-0.4;-0.2;0,"('KCS sig su', 0.469)",0.4,0.0,range miss,3.3582
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,-0.4;-0.2;0.2,"('KCS sig su', 0.469)",0.4,0.2,range miss,1.1194
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,-0.4;-0.2;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,-0.4;0;0.2,"('KCS sig su', 0.469)",0.4,0.2,range miss,1.1194
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,-0.4;0;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,-0.4;0.2;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,-0.2;0;0.2,"('KCS sig su', 0.469)",0.4,0.2,range miss,1.1194
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,-0.2;0;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,-0.2;0.2;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",3,0;0.2;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",4,-0.4;-0.2;0;0.2,"('KCS sig su', 0.469)",0.4,0.2,range miss,1.1194
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",4,-0.4;-0.2;0;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",4,-0.4;-0.2;0.2;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",4,-0.4;0;0.2;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)",4,-0.2;0;0.2;0.4,"('KCS sig su', 0.469)",0.4,0.4,optimum sampled,0.0

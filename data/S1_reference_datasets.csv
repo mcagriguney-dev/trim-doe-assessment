@@ -1,0 +1,168 @@
+dataset,source_table,operating_point,response_variable,trim_tau_positive_by_bow,response_value,is_optimum,note
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 12.5)",Pb [kW],-1.5,2837,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 12.5)",Pb [kW],-1.0,2739,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 12.5)",Pb [kW],-0.5,2601,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 12.5)",Pb [kW],0.0,2447,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 12.5)",Pb [kW],0.5,2370,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 12.5)",Pb [kW],1.0,2335,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 12.5)",Pb [kW],1.5,2248,yes,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 15.0)",Pb [kW],-1.5,4642,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 15.0)",Pb [kW],-1.0,4414,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 15.0)",Pb [kW],-0.5,4130,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 15.0)",Pb [kW],0.0,3965,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 15.0)",Pb [kW],0.5,3772,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 15.0)",Pb [kW],1.0,3665,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 15.0)",Pb [kW],1.5,3509,yes,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 18.0)",Pb [kW],-1.5,7480,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 18.0)",Pb [kW],-1.0,7124,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 18.0)",Pb [kW],-0.5,6667,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 18.0)",Pb [kW],0.0,6441,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 18.0)",Pb [kW],0.5,6345,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 18.0)",Pb [kW],1.0,6187,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(7.5, 18.0)",Pb [kW],1.5,5957,yes,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 12.5)",Pb [kW],-1.5,2882,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 12.5)",Pb [kW],-1.0,2664,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 12.5)",Pb [kW],-0.5,2450,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 12.5)",Pb [kW],0.0,2357,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 12.5)",Pb [kW],0.5,2285,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 12.5)",Pb [kW],1.0,2221,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 12.5)",Pb [kW],1.5,2155,yes,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 15.0)",Pb [kW],-1.5,4639,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 15.0)",Pb [kW],-1.0,4352,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 15.0)",Pb [kW],-0.5,4073,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 15.0)",Pb [kW],0.0,3869,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 15.0)",Pb [kW],0.5,3818,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 15.0)",Pb [kW],1.0,3719,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 15.0)",Pb [kW],1.5,3587,yes,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 18.0)",Pb [kW],-1.5,7991,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 18.0)",Pb [kW],-1.0,7879,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 18.0)",Pb [kW],-0.5,7120,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 18.0)",Pb [kW],0.0,6942,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 18.0)",Pb [kW],0.5,6750,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 18.0)",Pb [kW],1.0,6567,yes,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.0, 18.0)",Pb [kW],1.5,6595,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 12.5)",Pb [kW],-1.5,3048,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 12.5)",Pb [kW],-1.0,2771,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 12.5)",Pb [kW],-0.5,2564,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 12.5)",Pb [kW],0.0,2478,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 12.5)",Pb [kW],0.5,2403,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 12.5)",Pb [kW],1.0,2353,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 12.5)",Pb [kW],1.5,2293,yes,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 15.0)",Pb [kW],-1.5,5113,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 15.0)",Pb [kW],-1.0,4890,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 15.0)",Pb [kW],-0.5,4504,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 15.0)",Pb [kW],0.0,4303,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 15.0)",Pb [kW],0.5,4181,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 15.0)",Pb [kW],1.0,4072,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 15.0)",Pb [kW],1.5,4018,yes,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 18.0)",Pb [kW],-1.5,9361,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 18.0)",Pb [kW],-1.0,9143,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 18.0)",Pb [kW],-0.5,8405,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 18.0)",Pb [kW],0.0,8003,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 18.0)",Pb [kW],0.5,7707,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 18.0)",Pb [kW],1.0,7663,no,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Vasilev vd. 2024 - RO-RO 158 m, tam olcek CFD","Vasilev et al. (2024), Tables 8-9","(8.7, 18.0)",Pb [kW],1.5,7531,yes,sabit ortalama su cekimi; deplasman trimle degisiyor
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 20.0)",BHP degisimi [%],-1.0,2.7,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 20.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 20.0)",BHP degisimi [%],0.5,-2.2,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 20.0)",BHP degisimi [%],1.0,-3.8,yes,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 21.5)",BHP degisimi [%],-1.0,2.6,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 21.5)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 21.5)",BHP degisimi [%],0.5,-2.4,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 21.5)",BHP degisimi [%],1.0,-4.0,yes,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 23.0)",BHP degisimi [%],-1.0,1.9,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 23.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 23.0)",BHP degisimi [%],0.5,-2.6,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T1', 23.0)",BHP degisimi [%],1.0,-4.3,yes,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 20.0)",BHP degisimi [%],-1.0,6.7,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 20.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 20.0)",BHP degisimi [%],0.5,-3.0,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 20.0)",BHP degisimi [%],1.0,-3.5,yes,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 21.5)",BHP degisimi [%],-1.0,4.8,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 21.5)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 21.5)",BHP degisimi [%],0.5,-4.2,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 21.5)",BHP degisimi [%],1.0,-4.9,yes,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 23.0)",BHP degisimi [%],-1.0,4.2,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 23.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 23.0)",BHP degisimi [%],0.5,-5.0,no,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - 6500 TEU konteyner, model deneyi","Kim et al. (2015), Table 2","('T2', 23.0)",BHP degisimi [%],1.0,-5.6,yes,SABIT DEPLASMAN; model deneyi (kendinden sevkli)
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 13.0)",BHP degisimi [%],-2.0,0.5,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 13.0)",BHP degisimi [%],-1.0,-0.2,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 13.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 13.0)",BHP degisimi [%],1.0,-0.9,yes,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 14.0)",BHP degisimi [%],-2.0,0.5,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 14.0)",BHP degisimi [%],-1.0,-0.3,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 14.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 14.0)",BHP degisimi [%],1.0,-0.4,yes,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 15.0)",BHP degisimi [%],-2.0,0.5,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 15.0)",BHP degisimi [%],-1.0,0.1,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 15.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T1', 15.0)",BHP degisimi [%],1.0,-0.1,yes,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 13.0)",BHP degisimi [%],-2.0,3.6,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 13.0)",BHP degisimi [%],-1.0,2.5,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 13.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 13.0)",BHP degisimi [%],1.0,-2.6,yes,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 14.0)",BHP degisimi [%],-2.0,4.0,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 14.0)",BHP degisimi [%],-1.0,2.8,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 14.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 14.0)",BHP degisimi [%],1.0,-1.8,yes,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 15.0)",BHP degisimi [%],-2.0,4.5,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 15.0)",BHP degisimi [%],-1.0,3.1,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 15.0)",BHP degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; model deneyi
+"Kim vd. 2015 - Capesize dokme yuk, model deneyi","Kim et al. (2015), Table 3","('T2', 15.0)",BHP degisimi [%],1.0,-0.8,yes,SABIT DEPLASMAN; model deneyi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('EFD', 0.26)",RT [N],-1.0,8.09,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('EFD', 0.26)",RT [N],-0.6,7.74,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('EFD', 0.26)",RT [N],-0.25,7.64,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('EFD', 0.26)",RT [N],0.0,7.5,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('EFD', 0.26)",RT [N],0.25,7.41,yes,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('EFD', 0.26)",RT [N],0.6,7.62,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('EFD', 0.26)",RT [N],1.0,7.89,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-serbest', 0.26)",RT [N],-1.0,7.68,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-serbest', 0.26)",RT [N],-0.6,7.33,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-serbest', 0.26)",RT [N],-0.25,7.23,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-serbest', 0.26)",RT [N],0.0,7.21,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-serbest', 0.26)",RT [N],0.25,7.16,yes,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-serbest', 0.26)",RT [N],0.6,7.26,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-serbest', 0.26)",RT [N],1.0,7.45,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-sabit', 0.26)",RT [N],-1.0,7.44,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-sabit', 0.26)",RT [N],-0.6,7.08,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-sabit', 0.26)",RT [N],-0.25,7.02,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-sabit', 0.26)",RT [N],0.0,6.94,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-sabit', 0.26)",RT [N],0.25,6.92,yes,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-sabit', 0.26)",RT [N],0.6,7.03,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Shivachev vd. 2017 - KCS 1:75, Fn 0.26","Shivachev et al. (2017), Table 7","('CFD-sabit', 0.26)",RT [N],1.0,7.16,no,trim DERECE cinsinden; sabit ortalama su cekimi
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 11.40 m', 22.0)",RT [kN],-2.0,1760.5,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 11.40 m', 22.0)",RT [kN],-1.0,1629.9,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 11.40 m', 22.0)",RT [kN],0.0,1485.1,yes,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 11.40 m', 22.0)",RT [kN],1.0,1615.5,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 10.10 m', 22.0)",RT [kN],-2.0,1491.3,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 10.10 m', 22.0)",RT [kN],-1.0,1414.0,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 10.10 m', 22.0)",RT [kN],0.0,1220.0,yes,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 10.10 m', 22.0)",RT [kN],1.0,1406.3,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 8.80 m', 22.0)",RT [kN],-2.0,1256.8,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 8.80 m', 22.0)",RT [kN],-1.0,1155.4,yes,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 8.80 m', 22.0)",RT [kN],0.0,1176.5,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 8.80 m', 22.0)",RT [kN],1.0,1229.9,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 11.40 m', 15.0)",RT [kN],-2.0,812.3,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 11.40 m', 15.0)",RT [kN],-1.0,665.1,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 11.40 m', 15.0)",RT [kN],0.0,646.7,yes,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 11.40 m', 15.0)",RT [kN],1.0,722.7,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 10.10 m', 15.0)",RT [kN],-2.0,722.1,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 10.10 m', 15.0)",RT [kN],-1.0,737.2,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 10.10 m', 15.0)",RT [kN],0.0,657.2,yes,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 10.10 m', 15.0)",RT [kN],1.0,666.2,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 8.80 m', 15.0)",RT [kN],-2.0,720.0,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 8.80 m', 15.0)",RT [kN],-1.0,666.5,yes,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 8.80 m', 15.0)",RT [kN],0.0,694.4,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Ziylan & Nas 2022 - 2478 TEU konteyner, model deneyi (ITTC-78)","Ziylan and Nas (2022), Tables 5-6","('T 8.80 m', 15.0)",RT [kN],1.0,668.5,no,tam olcege ITTC-78 ile ekstrapole; deplasman sabitligi belirtilmemis
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn","Korkmaz et al. (2023), Table 10","('hafif yuk', 17.0)",PD degisimi [%],-1.5,19.9,no,SABIT DEPLASMAN; kendinden sevkli model deneyi
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn","Korkmaz et al. (2023), Table 10","('hafif yuk', 17.0)",PD degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; kendinden sevkli model deneyi
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn","Korkmaz et al. (2023), Table 10","('hafif yuk', 17.0)",PD degisimi [%],1.5,-0.7,yes,SABIT DEPLASMAN; kendinden sevkli model deneyi
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn","Korkmaz et al. (2023), Table 10","('agir yuk', 17.0)",PD degisimi [%],-1.5,21.2,no,SABIT DEPLASMAN; kendinden sevkli model deneyi
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn","Korkmaz et al. (2023), Table 10","('agir yuk', 17.0)",PD degisimi [%],0.0,0.0,no,SABIT DEPLASMAN; kendinden sevkli model deneyi
+"Korkmaz vd. 2023 - RoPax, model deneyi, 17 kn","Korkmaz et al. (2023), Table 10","('agir yuk', 17.0)",PD degisimi [%],1.5,-5.9,yes,SABIT DEPLASMAN; kendinden sevkli model deneyi
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)","Martic et al. (2024), Table 9","('KCS sig su', 0.469)",RT [N],-0.4,2.89,no,SIG SU - derin su setleriyle dogrudan karsilastirilmamali
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)","Martic et al. (2024), Table 9","('KCS sig su', 0.469)",RT [N],-0.2,2.81,no,SIG SU - derin su setleriyle dogrudan karsilastirilmamali
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)","Martic et al. (2024), Table 9","('KCS sig su', 0.469)",RT [N],0.0,2.77,no,SIG SU - derin su setleriyle dogrudan karsilastirilmamali
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)","Martic et al. (2024), Table 9","('KCS sig su', 0.469)",RT [N],0.2,2.71,no,SIG SU - derin su setleriyle dogrudan karsilastirilmamali
+"Martic vd. 2024 - KCS, sig su (h/T 1.78)","Martic et al. (2024), Table 9","('KCS sig su', 0.469)",RT [N],0.4,2.68,yes,SIG SU - derin su setleriyle dogrudan karsilastirilmamali
